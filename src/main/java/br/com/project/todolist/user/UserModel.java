@@ -1,4 +1,4 @@
-package br.com.project.todolist.controller.user;
+package br.com.project.todolist.user;
 
 import org.hibernate.annotations.CreationTimestamp;
 
